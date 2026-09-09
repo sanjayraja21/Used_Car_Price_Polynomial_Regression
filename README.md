@@ -388,14 +388,3 @@ Possible improvements include:
 
 ---
 
-## 👨‍💻 Author
-
-**Sanjay R.**
-
-B.Tech – Artificial Intelligence and Data Science
-
----
-
-## ⭐ Conclusion
-
-This project demonstrates an end-to-end machine learning workflow for used-car price prediction, including data preprocessing, feature engineering, polynomial feature generation, Ridge regularization, hyperparameter tuning, cross-validation, and model evaluation.
