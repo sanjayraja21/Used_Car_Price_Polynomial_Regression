@@ -388,3 +388,8 @@ Possible improvements include:
 
 ---
 
+## Author
+
+**Sanjay R.**
+
+B.Tech Artificial Intelligence and Data Science
